@@ -2,6 +2,10 @@
 
 ### Software & AI Engineer | Scalable AI Solutions
 
+NOTE!!!
+
+Most important repositories are private so here you will find my contributions.
+
 I'm a Computer Science student passionate about building practical software applications, AI-powered tools, and full-stack web solutions. I enjoy solving real-world problems through clean code, APIs, databases, and intelligent automation.
 
 * 🔭 **Currently working on:** Full-stack applications and AI-powered solutions
